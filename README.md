@@ -22,7 +22,8 @@ An interactive web app for analyzing Formula 1 telemetry data. Built with Python
 
 ## Screenshots
 
-*(Add a screenshot or GIF of the app here — drag an image into this file on GitHub and it'll auto-embed)*
+<img width="1904" height="910" alt="image" src="https://github.com/user-attachments/assets/f51a8072-dfd0-44b7-b167-ab95a8decdc5" />
+
 
 ## Setup & Run Locally
 
