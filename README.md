@@ -64,3 +64,7 @@ An interactive web app for analyzing Formula 1 telemetry data. Built with Python
 - Gear shift map
 - Multi-driver (3+) comparisons
 - Historical season trends
+
+## Contact
+
+Ananya Kumar - ananyakumar287@gmail.com
